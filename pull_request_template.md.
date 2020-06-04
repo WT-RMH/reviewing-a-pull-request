@@ -1,0 +1,30 @@
+**Description**
+
+Please include a summary of the change and which issue is fixed. Please also include relevant context and if there are any outstanding problems with this issue you fixed. 
+
+Fixes # (add issue no)
+Fixes # (add issue no if you fixed two issues)
+
+[ ] Does this pull request need a geotechnical review?
+[ ] Is this pull request formatting only?
+
+**Assign reviewer**
+Follow the TELLUS review guidelines to assign appropriate reviewer. 
+
+**How Has This Been Tested?**
+
+Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. 
+
+- Tested with hand calc [ ] 
+- Tested with project A [ ] 
+- Tested with project B [ ] 
+- Tested with test case [ ]
+
+**Checklist:**
+
+- [ ] My code follows the TELLUS style guidelines
+- [ ] New and edited functions include the TELLUS header
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] New and existing unit tests pass locally with my changes
